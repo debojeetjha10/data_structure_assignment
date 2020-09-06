@@ -1,0 +1,1 @@
+Accesso random, nella tecnica degli elaboratori elettronici, metodo di accesso diretto ai dati precedentemente memorizzati, realizzato mediante calcolo algoritmico e utilizzato in particolare per la memoria temporanea (detta random access memory memoria ad accesso casuale, in sigla RAM ).''
